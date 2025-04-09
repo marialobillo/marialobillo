@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 🔧 Technologies & Tools: React, Node.js, Next.js, Jest, Webpack, Git, REST APIs
 ☁️ Cloud: AWS, Docker, CI/CD pipelines
 📊 Methodologies: SCRUM, Agile, TDD
+
 🌐 Interests: Fullstack Development, Serverless, React Ecosystem, Microservices, Design Patterns, Clean Code
 
