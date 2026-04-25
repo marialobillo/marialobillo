@@ -13,7 +13,7 @@ and clean, well-tested code that survives production.
 - **Quality:** TDD · Jest · Pytest · domain-driven design
 
 💡 **What I've learned the most from**
-- Real-money payment systems with 99.999% uptime (iGaming).
+- High-availability user registration systems in iGaming (99.999% uptime).
 - Event-driven pipelines processing 10,000 documents at 38 docs/s with zero failures.
 - End-to-end design and deployment of microservices on AWS.
 
