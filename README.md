@@ -8,7 +8,7 @@ and clean, well-tested code that survives production.
 
 ⚙️ **Core stack**
 - **Backend:** Node.js · TypeScript · NestJS · Python · FastAPI
-- **Data & messaging:** PostgreSQL · Redis · Kafka · MongoDB
+- **Data & messaging:** PostgreSQL · Redis · Kafka · RabbitMQ · MongoDB
 - **Cloud & infra:** AWS (ECS Fargate, RDS, ElastiCache, S3) · Docker · CI/CD
 - **Quality:** TDD · Jest · Pytest · domain-driven design
 
