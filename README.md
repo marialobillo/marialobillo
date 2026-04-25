@@ -1,30 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Maria
 
-<!--
-**marialobillo/marialobillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Engineer** with 9+ years building distributed systems in production.
+Based in Huelva, Spain — working fully remote.
 
-Here are some ideas to get you started:
+🔭 **Focused on:** scalable backend systems, event-driven architectures,
+and clean, well-tested code that survives production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **Core stack**
+- **Backend:** Node.js · TypeScript · NestJS · Python · FastAPI
+- **Data & messaging:** PostgreSQL · Redis · Kafka · MongoDB
+- **Cloud & infra:** AWS (ECS Fargate, RDS, ElastiCache, S3) · Docker · CI/CD
+- **Quality:** TDD · Jest · Pytest · domain-driven design
 
-👨‍💻 About Me: Fullstack Engineer with 9+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, and Node.js. Interested in Nestjs, Next.js, microservices, clean architecture, and serverless. Built resilient products at scale & contributed to high-impact frontend.
+💡 **What I've learned the most from**
+- Real-money payment systems with 99.999% uptime (iGaming).
+- Event-driven pipelines processing 10,000 documents at 38 docs/s with zero failures.
+- End-to-end design and deployment of microservices on AWS.
 
-🛠️ I’ve spent the last few years shipping production-ready code across the stack, working closely with product and design teams. I care about clean code, fast delivery, and building things people actually enjoy using.
+🌱 **Going deeper on:** advanced Python, system design, event-driven architectures.
 
-🚀 My motto: “Code should tell a story.”
-
-💻 Programming Languages: JavaScript, TypeScript, Python, Go, SQL.
-🔧 Technologies & Tools: React, Node.js, Nestjs, Next.js, Jest, Webpack, Git, REST APIs, TDD, MongoDB, Postgresql.
-☁️ Cloud: AWS, Docker, CI/CD pipelines
-📊 Methodologies: SCRUM, Agile, 
-
-🌐 Interests: Fullstack Development, Serverless, React Ecosystem, Microservices, Design Patterns, Clean Code
+📫 **Get in touch:** [LinkedIn](link) · [Blog](link)
 
