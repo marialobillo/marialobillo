@@ -4,7 +4,6 @@
 I've kept **99.999% uptime** on platforms processing millions of daily requests.  
 Now I'm applying that experience to **Python** — with clean code, TDD, and event-driven architecture.
 
----
 
 ## 🚀 What I'm building right now
 
@@ -12,7 +11,6 @@ Now I'm applying that experience to **Python** — with clean code, TDD, and eve
 - **Exercism Python** — 20+ exercises, focusing on async and typing.
 - **RAG system** — LangChain + pgvector + FastAPI (coming this month).
 
----
 
 ## ⚙️ Core stack
 
@@ -21,7 +19,6 @@ Now I'm applying that experience to **Python** — with clean code, TDD, and eve
 **Cloud:** AWS (ECS, RDS, S3, Lambda) · Docker · CI/CD  
 **Quality:** TDD · Jest · pytest · DDD
 
----
 
 ## 🌱 Currently
 
@@ -34,7 +31,6 @@ Now I'm applying that experience to **Python** — with clean code, TDD, and eve
 - Event-driven pipelines processing 10,000 documents at 38 docs/s with zero failures.
 - End-to-end design and deployment of microservices on AWS.
 
----
 
 ## 📫 Find me
 
