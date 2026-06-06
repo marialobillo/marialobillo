@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Maria
 
-**Senior Backend Engineer** with 9+ years building distributed systems that survive production.  
-I've kept **99.999% uptime** on platforms processing millions of daily requests.  
-Now I'm applying that experience to **Python** — with clean code, TDD, and event-driven architecture.
+**Senior Backend Engineer** with 9+ years building systems that survive production.  
+I've maintained **99.999% uptime** on real-time, high-concurrency platforms processing critical transactions.
+
+Languages change. Distributed systems don't.
 
 
 ## 🚀 What I'm building right now
